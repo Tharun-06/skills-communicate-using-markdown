@@ -1,2 +1,7 @@
-![Octocat Image](https://octodex.github.com/images/yaktocat.png)
+```python
+def greet():
+    print("Hello, World!")
+
+greet()
+
 
