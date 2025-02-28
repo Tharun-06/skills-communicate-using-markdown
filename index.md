@@ -1,7 +1,10 @@
-```python
-def greet():
-    print("Hello, World!")
+## My Task List
 
-greet()
+- [x] Complete Markdown headers step
+- [x] Add an image to the file
+- [x] Include a code example
+- [ ] Create a task list
+- [ ] Celebrate completing this tutorial 🎉
+
 
 
