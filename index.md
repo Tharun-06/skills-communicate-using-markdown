@@ -1,4 +1,2 @@
-# Welcome to My Markdown File
-## This is a Subheading
-### Smaller Heading Example
-#### Even Smaller Heading
+![Octocat Image](https://octodex.github.com/images/yaktocat.png)
+
